@@ -8,7 +8,7 @@ import Movies from "./Containers/Movies";
 function App() {
   return (
     <div className="App">
-      <h1>Welcome to unit testing !</h1>
+      <h1>Welcome to unit testing world!</h1>
       <hr />
       <About />
       <hr />
