@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`movies component should have right movies snapshot 1`] = `
+<div>
+  <h2>
+    Movies|Testing class component
+  </h2>
+  <p
+    data-testid="heading"
+  >
+    welcome to movies url
+  </p>
+  <a
+    data-testid="link"
+    href="http://www.imdb.com"
+  >
+    http://www.imdb.com
+  </a>
+  <p>
+    You are not a subscriber
+  </p>
+  <button
+    data-testid="subscribeBtn"
+    onClick={[Function]}
+  >
+    Subscribe
+  </button>
+</div>
+`;
